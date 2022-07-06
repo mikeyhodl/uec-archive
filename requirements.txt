@@ -5,7 +5,7 @@ chardet==4.0.0
 cssselect==1.1.0
 fire==0.4.0
 idna==2.10
-lxml==4.6.2
+lxml==4.9.1
 parse==1.19.0
 pyquery==1.4.3
 pywebcopy==6.3.0
